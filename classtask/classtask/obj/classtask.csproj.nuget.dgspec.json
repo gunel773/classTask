@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\classtask\\classtask\\classtask.csproj": {}
+    "C:\\Users\\Honor MagicBook\\Downloads\\Class\\classtask\\classtask\\classtask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honor MagicBook\\Downloads\\classtask\\classtask\\classtask.csproj": {
+    "C:\\Users\\Honor MagicBook\\Downloads\\Class\\classtask\\classtask\\classtask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\classtask\\classtask\\classtask.csproj",
+        "projectUniqueName": "C:\\Users\\Honor MagicBook\\Downloads\\Class\\classtask\\classtask\\classtask.csproj",
         "projectName": "classtask",
-        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\classtask\\classtask\\classtask.csproj",
+        "projectPath": "C:\\Users\\Honor MagicBook\\Downloads\\Class\\classtask\\classtask\\classtask.csproj",
         "packagesPath": "C:\\Users\\Honor MagicBook\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\classtask\\classtask\\obj\\",
+        "outputPath": "C:\\Users\\Honor MagicBook\\Downloads\\Class\\classtask\\classtask\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honor MagicBook\\AppData\\Roaming\\NuGet\\NuGet.Config",
